@@ -1,0 +1,12 @@
+#Idea:
+-I have an Italian Investor who wants to open an Italian restaurant in New York and he is looking for the best neighborhood for his restaurant.
+-The idea is to find a neighborhood who doesn't have lots of Italian Restaurants and is also quite central.
+-His ideal neighborhood would be one which is central , doesn't have a lot of Italian restaurants and accessible to everyone.
+
+
+#Data:
+-I have access to New York data which has the different neighborhoods and their longitude and latitude.
+-First I will use this data with the FourSquare API to try to find the neighborhoods with the least number of Italian restaurants 
+-Then I will create a folium map of it and show it to the investor.
+-Then I will cluster them to see which neighborhoods are simmilar so he could get a better idea
+
